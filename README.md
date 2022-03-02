@@ -12,9 +12,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love creating the things that appears on my mind!
 
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?Zemheri25&show_icons=true&theme=gradient) 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=radical)
-
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=Zemheri25&show_icons=true&theme=gradient) 
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=Zemheri25&show_icons=true&theme=radical)
 
 
 

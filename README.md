@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on own new Project
 - 🌱 I’m currently learning react-django-sql-html-css-scss-java script
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with aything that I haven't known and improve myself in codding!
 - 💬 Ask me about anything :)
 - 📫 How to reach me: omerzemheri14@gmail.com
 - ⚡ Fun fact: I love creating the things that appears on my mind!

@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working at Market Calculus as Frontend Developer.
+- 🔭 I’m currently working at Çekino as Frontend Developer.
 - 🤔 I’m improving myself in React, SQL, TypeScript and JavaScript
 - 💬 Ask me about anything :)
 - 📫 How to reach me: omerzemheri14@gmail.com
